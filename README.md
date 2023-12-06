@@ -5,7 +5,7 @@
 |      오태훈                            |  한민구 |                                                     
 |:--------------------------------------:|:------|
 |                                        |       |
-| [@RosieOh](https://github.com/rosieoh) | hanmin-gu [@hanmin-gu](https://github.com/hanmin-gu) |
+| [@RosieOh](https://github.com/rosieoh) |[@hanmin-gu](https://github.com/hanmin-gu) |
 
 
 ## 기술 스택
