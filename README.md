@@ -56,10 +56,3 @@
 |      Rename      |         파일, 폴더명 이름 수정          |
 |      Remove      |             파일, 폴더 삭제             |
 |      chore       |            빌드, 패키지 수정            |
-
-
-
-
-https://github.com/daehwan0307/pocoapoco_teamproject/tree/main/src/main/java/teamproject/pocoapoco
-
-https://github.com/kimdh-hi/spring-study
