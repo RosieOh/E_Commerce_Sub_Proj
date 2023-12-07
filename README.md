@@ -4,7 +4,7 @@
 
 |      오태훈                            |  한민구                            |    김상아              |                                 
 |:--------------------------------------:|:-------------------------------:|:-------------------------------------:|
-|                                        |                                 |                                       |
+|         BackEnd                             |                  BackEnd               |                       FrontEnd                |
 | [오태훈](https://github.com/rosieoh) |[한민구](https://github.com/hanmin-gu) | [김상아](https://github.com/saaaaaaaaaanga) |
 
 
